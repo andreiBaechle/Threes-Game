@@ -8,6 +8,8 @@ import api.TilePosition;
 
 
 /**
+ * @Author Andrei Baechle
+ *
  * Utility class containing some elements of the basic logic for 
  * performing moves in a game of "Threes". 
  */
